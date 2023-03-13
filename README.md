@@ -1,4 +1,4 @@
-这个项目是对这个视频的抄袭
+这个项目是抄了这个视频
 https://www.bilibili.com/video/BV1ra411N7Ko/?spm_id_from=333.999.0.0
 
 用了vue2和vue-smooth-dnd
@@ -7,5 +7,8 @@ https://www.bilibili.com/video/BV1ra411N7Ko/?spm_id_from=333.999.0.0
 
 
 
-https://user-images.githubusercontent.com/90225671/224627261-2249c2a4-dc31-4c5d-a1d8-7c2c92655dda.mp4
+
+
+
+https://user-images.githubusercontent.com/90225671/224628390-9136e2fc-e9d3-488e-a598-2c1cc77600ce.mp4
 
