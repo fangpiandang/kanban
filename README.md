@@ -1,24 +1,11 @@
-# kanban
+这个项目是对这个视频的抄袭
+https://www.bilibili.com/video/BV1ra411N7Ko/?spm_id_from=333.999.0.0
 
-## Project setup
-```
-npm install
-```
+用了vue2和vue-smooth-dnd
+实现的功能如下
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://user-images.githubusercontent.com/90225671/224627261-2249c2a4-dc31-4c5d-a1d8-7c2c92655dda.mp4
+
