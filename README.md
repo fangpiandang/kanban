@@ -1,4 +1,4 @@
-这个项目是抄了这个视频
+这个项目是抄了这个项目
 https://www.bilibili.com/video/BV1ra411N7Ko/?spm_id_from=333.999.0.0
 
 用了vue2和vue-smooth-dnd
